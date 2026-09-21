@@ -155,20 +155,15 @@ Real-time face detection, gaze tracking, and tab-switch/suspicious-behavior flag
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nutankumarkm&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutankumarkm&layout=pie&theme=radical&hide_border=true" alt="Top Languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nutankumarkm&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nutankumarkm&theme=radical&hide_border=true" alt="Contribution Activity" />
+<img width="480" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22TypeScript%22%2C%22HTML%22%2C%22JavaScript%22%2C%22Python%22%2C%22TeX%22%2C%22Jupyter%20Notebook%22%2C%22Other%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B40.3%2C17.3%2C13.7%2C11.5%2C11.4%2C3.7%2C2.1%5D%2C%22backgroundColor%22%3A%5B%22%233178C6%22%2C%22%23E34F26%22%2C%22%23F7DF1E%22%2C%22%233776AB%22%2C%22%233D6117%22%2C%22%23F37626%22%2C%22%236b7280%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Top%20Languages%20%28public%20repos%2C%20by%20bytes%29%22%2C%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A15%7D%7D%7D%7D%7D&backgroundColor=transparent&width=480&height=300&devicePixelRatio=2" alt="Top languages doughnut chart" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nutankumarkm&theme=unicorn&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub Trophies" />
+<sub>⚠️ The github-readme-stats / activity-graph / profile-trophy widgets are temporarily removed — the shared public demo instances are down (Vercel free-tier quota, not a config issue on this page). See note below.</sub>
 
 </div>
 
