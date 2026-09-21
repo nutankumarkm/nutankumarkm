@@ -1,96 +1,166 @@
-# Hi, I'm K.M. Nutankumar
+<div align="center">
 
-**AI Engineer** building Generative AI / LLM systems — RAG pipelines, multi-agent orchestration, and production APIs that connect models to real products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:EC4899&height=220&section=header&text=K.M.%20Nutankumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20%2F%20LLM%20Systems%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=18&descColor=F5F3FF" width="100%" alt="header banner" />
 
-[![Email](https://img.shields.io/badge/Email-nutankumarkm%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nutankumarkm@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nutankumarkm-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nutankumarkm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nutankumarkm.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://nutankumarkm.vercel.app)
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Production+RAG+%26+Multi-Agent+Systems;Fine-Tuning+LLMs+with+LoRA+%2F+PEFT;Shipping+Full-Stack+AI+Products+End+to+End" alt="Typing SVG" />
 
----
+<br/>
 
-### About Me
+<a href="mailto:nutankumarkm@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/nutankumarkm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://nutankumarkm.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=nutankumarkm&color=EC4899&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-I'm a Computer Science & Design graduate working as an AI Engineer at **KAM Global AI**, where I build Python-based Generative AI features for a production LMS — RAG pipelines, autonomous LangChain agents, and REST APIs that integrate LLMs with enterprise systems. I also ship full-stack and mobile products on the side, from a multi-tenant SaaS platform to a 3-sided Android marketplace.
+</div>
 
-- 🔭 Currently building RAG pipelines and multi-agent LangChain systems at **KAM Global AI**
-- 🛠️ Also shipping a heavy-equipment rental marketplace (Android/Firestore) at **OneEquip**
-- 🎓 B.E. in Computer Science and Design, Tontadarya College of Engineering (2022–2026)
-- 📡 Former research intern at **IIITB COMET Foundation**, working on 5G/6G wireless systems
-- 💬 Ask me about RAG pipelines, LLM fine-tuning (LoRA/PEFT), MCP, or agent orchestration
+<br/>
 
----
+## 👋 About Me
 
-### Tech Stack
+<table>
+<tr>
+<td width="58%" valign="top">
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+AI Engineer with hands-on experience building **Python-based Generative AI / LLM solutions** — RAG pipelines, prompt engineering, and multi-agent orchestration. I build REST APIs and backend services that wire AI models into enterprise systems, deploy on AWS with Docker + GitHub Actions CI/CD, and work across full-stack SaaS and mobile products.
+
+Computer Science & Design graduate, currently an **AI Engineer at KAM Global AI**, building production LLM features for a learning platform.
+
+- 🔭 Currently building RAG pipelines & autonomous LangChain agents
+- 🧬 Fine-tuning LLaMA 3 / Mistral with LoRA / PEFT for domain adaptation
+- 🤝 Open to collaborating on RAG systems, agent tooling & MCP integrations
+
+</td>
+<td width="42%" valign="top">
+
+|  |  |
+|---|---|
+| 🏢 **Role** | AI Engineer @ KAM Global AI |
+| 🛠️ **Also shipping** | Android marketplace @ OneEquip |
+| 🎓 **Education** | B.E. CS & Design · CGPA 8.0/10 |
+| 🔬 **Research** | 5G/6G Systems @ IIITB COMET |
+| 📍 **Based in** | Bangalore, Karnataka |
+| 💬 **Ask about** | RAG, LoRA/PEFT, MCP, Agents |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Tech Stack
 
 **Generative AI / LLM**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Anthropic](https://img.shields.io/badge/-Anthropic%20API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PEFT%2FLoRA-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Backend & APIs**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Languages, Backend & Cloud**
 
-**Databases & Vector Stores**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,fastapi,django,postgres,mongodb,firebase,docker,aws,githubactions,git&theme=dark" />
+</p>
 
 **Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
----
-
-### Featured Projects
-
-**MCP-Powered AI Developer Assistant**
-A local AI developer assistant built on the Anthropic Model Context Protocol (MCP), unifying GitHub, filesystem, and database access as MCP servers, with a RAG pipeline for reasoning over codebases and triggering actions autonomously.
-`Python` `MCP` `LangChain` `RAG` `Claude API`
-
-**Fine-Tuned Domain-Specific LLM**
-Fine-tuned LLaMA 3 and Mistral for medical and legal domains using parameter-efficient LoRA training, with custom instruction datasets and RAG-based inference pipelines optimized for cost and accuracy.
-`Python` `HuggingFace` `PEFT` `LoRA` `LangChain`
-
-**AI-Powered Online Assessment & Live Proctoring System**
-Real-time proctoring system with face detection, gaze tracking, and tab-switch/suspicious-behavior flagging, paired with a Flutter frontend and Firebase backend for live session logging.
-`Python` `OpenCV` `MediaPipe` `Flutter` `Firebase`
-
-**Distributed Key-Value Store (Raft Consensus)**
-A 5-node Raft-based distributed key-value store with leader leases, log snapshotting, and crash recovery — under 150ms commit latency with 100% recovery success via automatic failover.
-`Python` `ZeroMQ` `Docker` `Raft`
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nutankumarkm&show_icons=true&theme=default&hide_border=true" alt="Nutankumar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutankumarkm&layout=compact&hide_border=true" alt="Top Languages" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,figma&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nutankumarkm&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+## 🚀 Featured Projects
 
-<p align="center">
-  <i>Open to collaborating on RAG systems, agentic AI tooling, and MCP-based integrations.</i>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 MCP AI Developer Assistant
+Local AI developer assistant built on the Anthropic Model Context Protocol, unifying filesystem, GitHub, and database tools into one agent environment with RAG over codebases.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-EC4899?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Domain-Specific LLM Fine-Tuning
+LoRA fine-tuned LLaMA 3 & Mistral for medical and legal domains, with custom instruction datasets and RAG-based inference optimized for cost and accuracy.
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/PEFT%2FLoRA-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/LLaMA_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 AI Vision Proctoring System
+Real-time face detection, gaze tracking, and tab-switch/suspicious-behavior flagging, paired with a Flutter frontend and Firebase backend for live session logging.
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🗳️ Distributed Raft Key-Value Store
+5-node distributed key-value store implementing Raft consensus with leader leases and log snapshotting — under 150ms commit latency, 100% failover recovery.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ZeroMQ-EC4899?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Raft-8B5CF6?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nutankumarkm&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutankumarkm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nutankumarkm&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nutankumarkm&theme=radical&hide_border=true" alt="Contribution Activity" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nutankumarkm&theme=unicorn&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let's Build Something Together
+
+<a href="mailto:nutankumarkm@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nutankumarkm"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://nutankumarkm.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
